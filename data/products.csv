@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price_usd,unit_cost_usd,supplier
+P0001,Ordinateur portable Lenovo IdeaPad,Ordinateurs,520,390,TechSupply Africa
+P0002,Ordinateur portable HP 15,Ordinateurs,610,455,DigitalPro
+P0003,Dell Inspiron 15,Ordinateurs,720,535,WestCom
+P0004,MacBook Air,Ordinateurs,1180,870,Global Devices
+P0005,Souris Logitech M185,Accessoires,18,10,Global Devices
+P0006,Clavier Logitech K120,Accessoires,22,12,DigitalPro
+P0007,Clavier mécanique RGB,Accessoires,65,38,TechSupply Africa
+P0008,Casque Bluetooth JBL,Audio,72,42,WestCom
+P0009,Écouteurs sans fil,Audio,38,21,TechSupply Africa
+P0010,Enceinte Bluetooth portable,Audio,55,31,TechSupply Africa
+P0011,Écran Samsung 24 pouces,Écrans,165,112,WestCom
+P0012,Écran LG 27 pouces,Écrans,245,169,DigitalPro
+P0013,Disque SSD 500 Go,Stockage,58,35,WestCom
+P0014,Disque SSD 1 To,Stockage,92,57,DigitalPro
+P0015,Disque dur externe 1 To,Stockage,68,43,WestCom
+P0016,Clé USB 64 Go,Stockage,12,6,DigitalPro
+P0017,Routeur Wi-Fi TP-Link,Réseau,45,27,WestCom
+P0018,Switch réseau 8 ports,Réseau,39,23,TechSupply Africa
+P0019,Webcam Full HD,Accessoires,48,28,DigitalPro
+P0020,Micro USB professionnel,Audio,82,49,Global Devices
+P0021,Power Bank 20 000 mAh,Énergie,35,20,WestCom
+P0022,Onduleur 650 VA,Énergie,78,48,Global Devices
+P0023,Imprimante HP Laser,Imprimantes,185,137,TechSupply Africa
+P0024,Cartouche toner HP,Consommables,42,27,DigitalPro
+P0025,Tablette Samsung Galaxy Tab,Tablettes,290,215,DigitalPro
+P0026,Smartphone Samsung Galaxy A,Smartphones,245,182,WestCom
+P0027,Smartphone Xiaomi Redmi,Smartphones,190,139,Global Devices
+P0028,iPhone 15,Smartphones,890,690,DigitalPro
+P0029,Support ordinateur,Accessoires,27,14,WestCom
+P0030,Adaptateur USB-C Hub,Accessoires,34,19,Global Devices
